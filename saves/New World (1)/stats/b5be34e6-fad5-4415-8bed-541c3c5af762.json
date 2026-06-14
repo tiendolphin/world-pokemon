@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:brown_wool": 6,
+      "minecraft:white_wool": 32,
+      "minecraft:black_wool": 7
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 1
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 76,
+      "minecraft:piston": 19,
+      "minecraft:oak_leaves": 25,
+      "minecraft:redstone": 1,
+      "minecraft:dispenser": 3,
+      "minecraft:cherry_trapdoor": 11,
+      "minecraft:hopper": 1,
+      "minecraft:water_bucket": 1,
+      "minecraft:glass": 86,
+      "minecraft:redstone_torch": 9,
+      "minecraft:chest": 5,
+      "minecraft:sheep_spawn_egg": 13,
+      "minecraft:torch": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 19175,
+      "minecraft:walk_one_cm": 30455,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_dealt": 90,
+      "minecraft:play_time": 19175,
+      "minecraft:jump": 37,
+      "minecraft:time_since_death": 19175,
+      "minecraft:sprint_one_cm": 262,
+      "minecraft:open_chest": 3,
+      "minecraft:inspect_dispenser": 6,
+      "minecraft:total_world_time": 19273,
+      "minecraft:fly_one_cm": 13893,
+      "minecraft:walk_on_water_one_cm": 318,
+      "minecraft:crouch_one_cm": 2132,
+      "minecraft:sneak_time": 1174
+    }
+  },
+  "DataVersion": 4671
+}

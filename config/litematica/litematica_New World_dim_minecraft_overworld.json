@@ -1,0 +1,88 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\ACER\\AppData\\Roaming\\.minecraft\\versions\\survival\\schematics\\wool farm.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -9,
+          -61,
+          -13
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "hash_code": "200a2f30-4dc3-4b3e-8ae1-2275df76e28d",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                6
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 84,
+    "layer_above": 86,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -16,
+          -55,
+          -13
+        ],
+        "pos2": [
+          -20,
+          -61,
+          -7
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

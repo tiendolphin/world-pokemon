@@ -1,0 +1,50 @@
+/claim
+/claim alll
+/claim all
+/claim 100
+/back
+/homes
+/shop
+/back
+/shop
+/gamemode creative
+/sc
+/shop
+/back
+/gamemode creative
+/shop
+/back
+/shop
+/back
+/shop
+/claim 10\
+/claim 10
+/claim 5
+/claim 4
+/shop
+/back
+/shop
+/randomtp
+/home
+/shop
+/back
+/shop
+/randomtp
+/home
+/spawn
+/shop
+/effect give @p minecraft:strength infinite 255
+/gamerule random_tick_speed 100
+/gamerule random_tick_speed 1000
+/gamerule random_tick_speed 10000
+/homes
+/randomtp
+/shop
+/tpaccept
+/back
+/shop
+/teammsg
+/sethome:home
+/homes
+/spin
+/back

@@ -1,0 +1,107 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": true,
+    "memory": 10691,
+    "id": -880665104300,
+    "name": "survival",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "author": "",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 778706,
+          "pictures": [],
+          "lanName": "fabric-api",
+          "version": {
+            "id": 8073350,
+            "name": "fabric-api-0.141.4+1.21.11",
+            "updateDate": 1778502702000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "13d3885dfec40313e2b3bf9ee639353272b9b48a",
+              "size": 2413332,
+              "path": "mods/fabric-api-0.141.4%2B1.21.11.jar",
+              "url": "/mods/306612/8073350/fabric-api-0.141.4%252B1.21.11.jar"
+            },
+            "installed": 224478,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 1786,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 69,
+            "name": "26.1.2"
+          },
+          "updated": 1780779600000,
+          "update": 1780779600000,
+          "downloadALL": 23323908,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 66,
+        "name": "1.21.11"
+      },
+      "minecraftVersionName": {
+        "id": 11524,
+        "name": "0.19.3"
+      },
+      "id": -880665218901,
+      "name": "1.0",
+      "available": false,
+      "remove": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 2,
+          "name": "fabric"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.21.11",
+  "skinVersion": false
+}
